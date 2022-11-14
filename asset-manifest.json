@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/single-price-grid-component/static/css/main.20d48324.css",
+    "main.css": "/single-price-grid-component/static/css/main.e5fa247d.css",
     "main.js": "/single-price-grid-component/static/js/main.0a66de97.js",
     "index.html": "/single-price-grid-component/index.html",
-    "main.20d48324.css.map": "/single-price-grid-component/static/css/main.20d48324.css.map",
+    "main.e5fa247d.css.map": "/single-price-grid-component/static/css/main.e5fa247d.css.map",
     "main.0a66de97.js.map": "/single-price-grid-component/static/js/main.0a66de97.js.map"
   },
   "entrypoints": [
-    "static/css/main.20d48324.css",
+    "static/css/main.e5fa247d.css",
     "static/js/main.0a66de97.js"
   ]
 }
