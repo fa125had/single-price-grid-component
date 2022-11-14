@@ -23,9 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](../public/screenshots/Screen%20Shot%202022-11-14%20at%2012.31.53.png)
-![](../public/screenshots/Screen%20Shot%202022-11-14%20at%2012.32.51.png)
-![](../public/screenshots/Screen%20Shot%202022-11-14%20at%2012.33.05.png)
+![](./screenshots/Screen%20Shot%202022-11-14%20at%2012.31.53.png)
+![](./screenshots/Screen%20Shot%202022-11-14%20at%2012.32.51.png)
+![](./screenshots/Screen%20Shot%202022-11-14%20at%2012.33.05.png)
 
 ### Links
 
